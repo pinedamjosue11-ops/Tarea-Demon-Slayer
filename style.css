@@ -1,0 +1,187 @@
+header {
+    background: #333;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+}
+h2{
+    color: red;
+    text-align: center;
+}
+.contenedor-personajes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.card1 {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    width: 250px;
+}
+.card1 p {
+    text-align: justify;
+}
+
+.card1 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+}
+.card2 {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    width: 250px;
+}
+.card2 p {
+    text-align: justify;
+}
+
+.card2 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+}
+
+
+.card3 {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    width: 250px;
+}
+.card3 p {
+    text-align: justify;
+}
+
+.card3 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+}
+
+
+.card4 {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    width: 250px;
+}
+.card4 p {
+    text-align: justify;
+}
+
+.card4 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+}
+
+.card5 {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    width: 250px;
+}
+.card5 p {
+    text-align: justify;
+}
+
+.card5 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+}
+
+.card6 {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    width: 250px;
+}
+.card6 p {
+    text-align: justify;
+}
+
+.card6 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+}
+
+
+.pagina-characters {
+    background: white;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.pagina-characters h1 {
+    text-align: center;
+    font-size: 32px;
+    margin: 20px 0;
+}
+
+.pagina-characters .contenedor-personajes {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+[class^="container"] {
+    display: flex;
+    gap: 20px;
+    padding: 15px 0;
+}
+
+[class^="container"] img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+[class^="container"] .info {
+    flex: 1;
+}
+
+[class^="container"] .info h3 {
+    margin: 0 0 5px;
+    font-size: 20px;
+    color: #000;
+}
+
+[class^="container"] .info p {
+    margin: 3px 0;
+    font-size: 14px;
+    color: #333;
+}
+
+[class^="container"] .info p strong {
+    color: #c00;
+}
+
+
+
+
+
